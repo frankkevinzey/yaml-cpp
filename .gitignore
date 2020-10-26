@@ -1,3 +1,17 @@
 build/
+bin/
+bin-int/
 /tags
 /bazel-*
+
+# Moebius files
+*.log
+*.json
+
+imgui.ini
+
+# Visual Studio files and folder
+.vscode/
+.vs/
+**.sln
+**.vcxproj*
